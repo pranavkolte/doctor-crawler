@@ -9,7 +9,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-from db import init_db, save_doctor, get_all_doctors
+from db import init_db, save_doctor
+from analyze import analyze_doctors
 
 logging.basicConfig(
     level=logging.INFO,
@@ -271,13 +272,17 @@ def main():
     session.close()
     crawler = AndalusiaHealthCrawler(headless=True)
     doctors = crawler.crawl()
-    print(f"Found {len(doctors)} doctors:")
+    logger.info(f"Found {len(doctors)} doctors:")
     
     for doctor in doctors:
         # Convert dataclass to dictionary for database storage
         doctor_dict = asdict(doctor)
         doctor_id = save_doctor(doctor_dict)
         logger.info(f"Saved doctor: {doctor.name} (ID: {doctor_id})")
+        
+    analyze_doctors()
+    logger.info("Doctor search completed")
+    
 
 
 if __name__ == "__main__":

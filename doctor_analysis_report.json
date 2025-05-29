@@ -1,0 +1,228 @@
+{
+  "summary": {
+    "total_doctors": 42,
+    "doctors_with_ratings": 13,
+    "shared_phone_numbers": 9,
+    "doctors_with_multiple_locations": 6
+  },
+  "shared_phone_numbers": {
+    "(334) 222-4191": [
+      {
+        "name": "Timothy Day, MD",
+        "specialty": "General Surgery",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1124083449",
+        "location": "Andalusia General Surgeons: 820 South Three Notch Street, Andalusia, AL 36420"
+      },
+      {
+        "name": "Ashton Wells, MD",
+        "specialty": "General Surgery",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1215974233",
+        "location": "Andalusia General Surgeons: 820 South Three Notch Street, Andalusia, AL 36420"
+      }
+    ],
+    "(334) 222-7337": [
+      {
+        "name": "Gabrielle Baldwin, MD",
+        "specialty": "Pediatrics",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1528150521",
+        "location": "Andalusia Pediatrics: 301 Medical Avenue, Suite A, Andalusia, AL 36420"
+      },
+      {
+        "name": "Christyl Hines, CRNP",
+        "specialty": "Pediatrics",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1861830689",
+        "location": "Andalusia Pediatrics: 301 Medical Avenue, Suite A, Andalusia, AL 36420"
+      },
+      {
+        "name": "Srividhya Sridharan, MD",
+        "specialty": "Pediatrics",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1720465909",
+        "location": "Andalusia Pediatrics: 301 Medical Avenue, Suite A, Andalusia, AL 36420"
+      },
+      {
+        "name": "Hope Veasey, CRNP",
+        "specialty": "Pediatrics",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1194448506",
+        "location": "Andalusia Pediatrics: 301 Medical Avenue, Suite A, Andalusia, AL 36420"
+      }
+    ],
+    "(334) 222-2073": [
+      {
+        "name": "Patrick Kelly, DO",
+        "specialty": "Orthopedic Surgery, Orthopedics - General, Orthopedic Sports Medicine",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1184679417",
+        "location": "Andalusia Orthopedics and Sports Medicine: 301 Medical Avenue, Suite C, Andalusia, AL 36420"
+      },
+      {
+        "name": "Kristy Nichols, CRNP",
+        "specialty": "Orthopedic Surgery",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1891945614",
+        "location": "Andalusia Orthopedics and Sports Medicine: 301 Medical Avenue, Suite C, Andalusia, AL 36420"
+      },
+      {
+        "name": "Sherry Wright, CRNP",
+        "specialty": "Orthopedic Surgery",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1922366103",
+        "location": "Andalusia Orthopedics and Sports Medicine: 301 Medical Avenue, Suite C, Andalusia, AL 36420"
+      }
+    ],
+    "(334) 222-1022": [
+      {
+        "name": "Jesanna Cooper, MD",
+        "specialty": "Obstetrics & Gynecology",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1083811459",
+        "location": "Andalusia Women's Services + Family Health: 109 Medical Park Dr, Suite B, Andalusia, AL 36420"
+      },
+      {
+        "name": "Jenny Goss, CNM",
+        "specialty": "Midwife",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1578984811",
+        "location": "Andalusia Women's Services + Family Health: 109 Medical Park Dr, Suite B, Andalusia, AL 36420"
+      },
+      {
+        "name": "Steven Murrell, MD",
+        "specialty": "Obstetrics, Family Medicine",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1457540445",
+        "location": "Andalusia Women's Services + Family Health: 109 Medical Park Dr, Suite B, Andalusia, AL 36420"
+      }
+    ],
+    "(334) 428-2273": [
+      {
+        "name": "Asia Dutton, CRNP",
+        "specialty": "Family Medicine",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1457960635",
+        "location": "Andalusia Walk-In Clinic: 847 Western Bypass, Andalusia, AL 36420"
+      },
+      {
+        "name": "Kelly Hammett, CRNP",
+        "specialty": "Family Medicine",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1518340777",
+        "location": "Andalusia Walk-In Clinic: 847 Western Bypass, Andalusia, AL 36420"
+      },
+      {
+        "name": "April Johnson, CRNP",
+        "specialty": "Family Medicine",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1568815793",
+        "location": "Andalusia Walk-In Clinic: 847 Western Bypass, Andalusia, AL 36420"
+      }
+    ],
+    "(334) 222-1366": [
+      {
+        "name": "Jill Elmore, CRNP",
+        "specialty": "Family Medicine",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1285841270",
+        "location": "Andalusia Family Healthcare: 847 Western Bypass, Andalusia, AL 36420"
+      },
+      {
+        "name": "Kathrine Langley, CRNP",
+        "specialty": "Family Medicine",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1407440829",
+        "location": "Andalusia Family Healthcare: 847 Western Bypass, Andalusia, AL 36420"
+      }
+    ],
+    "(334) 428-7047": [
+      {
+        "name": "Christopher Blatz, CRNA",
+        "specialty": "Anesthesiology",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1700922028",
+        "location": "Andalusia Health: 849 S 3 Notch Street, Andalusia, AL 36420"
+      },
+      {
+        "name": "Willie Furr, CRNA",
+        "specialty": "Anesthesiology",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1023065398",
+        "location": "Andalusia Health: 849 S 3 Notch Street, Andalusia, AL 36420"
+      },
+      {
+        "name": "Julie Gay, CRNA",
+        "specialty": "Anesthesiology",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1730417973",
+        "location": "Andalusia Health: 849 S 3 Notch Street, Andalusia, AL 36420"
+      },
+      {
+        "name": "Sandy Griffin, CRNA",
+        "specialty": "Anesthesiology",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1114931144",
+        "location": "Andalusia Health: 849 S 3 Notch Street, Andalusia, AL 36420"
+      },
+      {
+        "name": "Michele Thomason, CRNA",
+        "specialty": "Anesthesiology",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1114974482",
+        "location": "Andalusia Health: 849 S 3 Notch Street, Andalusia, AL 36420"
+      }
+    ],
+    "(850) 444-4700": [
+      {
+        "name": "Amy Dugger, FNP",
+        "specialty": "Nurse Practitioner",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1508174236",
+        "location": "Andalusia Health: 849 S 3 Notch Street, Andalusia, AL 36420"
+      },
+      {
+        "name": "Micalyn Kelley, APRN",
+        "specialty": "Nurse Practitioner",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1205588803",
+        "location": "Pensacola Nephrology d/b/a Renalus Center for Kidney Care: 1619 Creighton Road, Suite 1, Pansacola, FL 32504-7152"
+      },
+      {
+        "name": "Christopher Reid, MD",
+        "specialty": "Critical Care Nephrology, Nephrology",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1174525364",
+        "location": null
+      }
+    ],
+    "(334) 222-4327": [
+      {
+        "name": "Gregory D. Price Sr, MD",
+        "specialty": "Preventive Cardiology",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1699761106",
+        "location": "Heart Institute of Andalusia: 215 Medical Park Drive, Suite 1, Andalusia, AL 36420"
+      },
+      {
+        "name": "Heide Price, FNP",
+        "specialty": "Family Medicine, Preventive Cardiology",
+        "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1033431465",
+        "location": "Heart Institute of Andalusia: 215 Medical Park Drive, Suite 1, Andalusia, AL 36420"
+      }
+    ]
+  },
+  "doctors_with_multiple_locations": [
+    {
+      "name": "Timothy Day, MD",
+      "specialty": "General Surgery",
+      "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1124083449",
+      "phone": "(334) 222-4191"
+    },
+    {
+      "name": "Ashton Wells, MD",
+      "specialty": "General Surgery",
+      "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1215974233",
+      "phone": "(334) 222-4191"
+    },
+    {
+      "name": "JoAnne Smith, DO",
+      "specialty": "Family Medicine, Adolescent Medicine",
+      "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1104821099",
+      "phone": "(334) 222-0625"
+    },
+    {
+      "name": "Gregory D. Price Sr, MD",
+      "specialty": "Preventive Cardiology",
+      "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1699761106",
+      "phone": "(334) 222-4327"
+    },
+    {
+      "name": "Bhagwan Bang, MD",
+      "specialty": "Pediatrics",
+      "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1487615084",
+      "phone": "(334) 493-2400"
+    },
+    {
+      "name": "Micalyn Kelley, APRN",
+      "specialty": "Nurse Practitioner",
+      "profile_url": "https://www.andalusiahealth.com/find-a-doctor/provider/1205588803",
+      "phone": "(850) 444-4700"
+    }
+  ]
+}
